@@ -13,6 +13,7 @@ tailrec fun fact(n: Int, temp: Int = 1): Int {
     }
 }
 fun main(){
+    println("Khushi_21012011010")
     print("Enter Number:")
     val num=readLine()!!.toInt()
     println("factorial of $num is ${factorial(num)}")

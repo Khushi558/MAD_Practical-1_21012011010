@@ -1,5 +1,5 @@
 fun main(){
-    println("21012011010 || Khushi")
+    println("Khushi_21012011010")
     var a= 111
     var b= 2222
     var c= -222
